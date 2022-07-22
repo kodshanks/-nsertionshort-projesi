@@ -1,1 +1,1 @@
-# -nsertionshort-projesi
+# -insertionshort-projesi
